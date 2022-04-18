@@ -1,0 +1,44 @@
+{
+  "post": [
+    {
+      "img": "https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg",
+      "title": "Coding IT ",
+      "description": "It is very hard probably but I like coding and I will not give up. I hope everything will be good",
+      "user": "benazir@gmail.com",
+      "date": "2022-04-16T11:56:21.455Z",
+      "id": 1
+    },
+    {
+      "img": "https://i.pinimg.com/originals/21/c3/7f/21c37f5445a5296530e3ca91cdd5f42c.jpg",
+      "title": "The king of Football",
+      "description": "I think that he is the best player in the world. Despite that he is 35 years old he plays superb for his age!",
+      "user": "benazir@gmail.com",
+      "date": "2022-04-16T13:15:43.494Z",
+      "id": 2
+    },
+    {
+      "img": "https://media.gettyimages.com/photos/lightweight-champion-conor-mcgregor-poses-on-the-scale-during-his-picture-id839485722?s=612x612",
+      "title": "Conor ",
+      "description": "The person who motivates me. He had nothing and he was a plumber but now he is the most popular fighter in the world",
+      "user": "bekbolsun@gmail.com",
+      "date": "2022-04-16T13:20:15.045Z",
+      "id": 3
+    },
+    {
+      "img": "https://static5.depositphotos.com/1047404/494/i/600/depositphotos_4940654-stock-photo-usa-logo.jpg",
+      "title": "USA",
+      "description": "The country of dreams. I think everyone wants to visit this country. Soon I will live in USA  I promise",
+      "user": "bekbolsun@gmail.com",
+      "date": "2022-04-16T13:22:11.518Z",
+      "id": 4
+    },
+    {
+      "img": "https://editorial.uefa.com/resources/0270-13f282ec1616-0c31b83680de-1000/uefa_champions_league_202122_knockout_stage_match_ball_shoot_1_.jpg",
+      "title": "Football",
+      "description": "For someone it is just sport but for someone it is life",
+      "user": "bekbolsunabdykadyrov214@gmail.com",
+      "date": "2022-04-18T08:00:59.813Z",
+      "id": 5
+    }
+  ]
+}

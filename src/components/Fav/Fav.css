@@ -1,0 +1,14 @@
+.div1 {
+  display: flex;
+  justify-content: space-between;
+}
+.fav_btn {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+.last_adaptive {
+  margin-left: -40px;
+}

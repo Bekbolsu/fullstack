@@ -1,0 +1,50 @@
+.edit_inner {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+  background-color: rgb(34, 34, 34);
+  padding: 20px;
+  border-radius: 30px;
+}
+.edit3 {
+  margin-left: 35px;
+}
+@media (max-width: 580px) {
+  .edit_inner {
+    width: 400px;
+  }
+}
+@media (max-width: 480px) {
+  .edit_inner {
+    width: 300px;
+  }
+  .edit_block {
+    display: flex;
+    flex-direction: column;
+  }
+  .edit {
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+  .edit2 {
+    margin-top: 20px;
+  }
+  .edit3 {
+    margin-left: 0px;
+  }
+}
+@media (max-width: 380px) {
+  .edit_inner {
+    width: 250px;
+  }
+  .edit2 {
+    width: 200px;
+  }
+  .edit3 {
+    margin-left: 0px;
+  }
+  .edit {
+    margin-left: 0px;
+  }
+}
